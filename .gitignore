@@ -57,3 +57,11 @@ Temporary Items
 # GameMaker temporary files
 *.resource_order
 *.old
+
+# GameMaker generated folders
+/build/
+/cache/
+/output/
+
+# Logs
+*.log
